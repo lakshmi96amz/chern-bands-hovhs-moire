@@ -1,1 +1,14 @@
+# Manuscript
+
+This directory contains the manuscript associated with the numerical codes
+in this repository.
+
+**Title:**  
+Chern Bands with Higher-Order Van Hove Singularities on Topological Moiré Surface States
+
+**Description:**  
+The Jupyter notebooks in the `notebooks/` directory reproduce the numerical
+calculations and figures presented in this paper, including the construction
+of moiré Hamiltonians, band structure, density of states, higher-order
+Van Hove singularity analysis, and anomalous Hall conductivity.
 
