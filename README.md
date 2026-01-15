@@ -3,7 +3,7 @@ Python code accompanying the paper “Chern Bands with Higher-Order Van Hove Sin
 
 ## Overview
 This repository contains the numerical implementation of the moiré surface-state Hamiltonian of 3D topological insulators,
-band structure calculations, Berry curvature evaluation, Chern number computation, and detection
+band structure calculations, Berry curvature evaluation, intrinsic anomalous hall conductivity analysis, and detection
 of higher-order Van Hove singularities.
 
 ## Requirements
